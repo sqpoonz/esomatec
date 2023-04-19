@@ -1,5 +1,5 @@
-#Splitted die Bilder in 2-3 Ordner auf 
-#Für unser trainieren vom Model benutzen wir nur 2 Ordner (Train,Validation)
+#Splits images into 2-3 directories
+#For our case we gonna use only two directories, ignore test  (train,validation)
 
 import glob
 from pathlib import Path
